@@ -25,13 +25,6 @@ The layout is designed using **Flexbox** and styled with **Media Queries** to en
 
 ---
 
-## 🖼️ Preview
-
-### Desktop View
-![Pricing Cards Screenshot](./Screenshot%202025-10-27%20235110.png)
-
----
-
 ## 💻 How to Run
 
 1. Clone the repository:
@@ -44,3 +37,8 @@ The layout is designed using **Flexbox** and styled with **Media Queries** to en
 
   - GitHub Pages
   - Netlify
+
+## 👨‍💻 Author
+
+### Pawan Kumar Bandaru
+### 📧 bandarupawankumar25@gmail.com
